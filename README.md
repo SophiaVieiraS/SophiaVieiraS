@@ -151,18 +151,6 @@ Ao longo da graduação, venho desenvolvendo diferentes projetos para colocar em
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SophiaVieiraS&show_icons=true&theme=transparent&bg_color=00000000&title_color=C8B6E8&text_color=E8E3F3&icon_color=E8AFC3&border_color=B8B5E8&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaVieiraS&layout=compact&langs_count=6&theme=transparent&bg_color=00000000&title_color=C8B6E8&text_color=E8E3F3&border_color=A9C9E8"/>
-
-</div>
-
----
-
 ## Contato
 
 <div align="center">
