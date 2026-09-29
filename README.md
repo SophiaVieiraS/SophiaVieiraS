@@ -2,7 +2,6 @@
 
 # Sophia Vieira
 
-### Estudante de Sistemas de Informação | FIAP
 
 <br>
 
