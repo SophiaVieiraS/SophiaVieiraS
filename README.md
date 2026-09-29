@@ -6,14 +6,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%40+FIAP;Desenvolvimento+%7C+Java;Hardware+%7C+Rob%C3%B3tica;Sistemas+Embarcados+%7C+ESP32" alt="Animação de texto">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8B4CB&center=true&vCenter=true&width=700&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%40+FIAP;Desenvolvimento+%7C+Java;Hardware+%7C+Rob%C3%B3tica;Sistemas+Embarcados+%7C+ESP32" alt="Animação de texto">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FIAP-Sistemas%20de%20Informa%C3%A7%C3%A3o-00C2FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/FIAP-Sistemas%20de%20Informa%C3%A7%C3%A3o-C8B6E8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-D9A0B8?style=for-the-badge&logo=openjdk&logoColor=ffffff">
+<img src="https://img.shields.io/badge/HTML5-AEC6CF?style=for-the-badge&logo=html5&logoColor=ffffff">
+<img src="https://img.shields.io/badge/CSS3-B8B5E8?style=for-the-badge&logo=css3&logoColor=ffffff">
 
 </div>
 
@@ -43,8 +43,8 @@ Também participo de projetos acadêmicos envolvendo **robótica, ESP32, sensore
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E8AFC3?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-AEC6CF?style=for-the-badge&logo=css3&logoColor=white">
 
 </div>
 
@@ -62,7 +62,7 @@ Também participo de projetos acadêmicos envolvendo **robótica, ESP32, sensore
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Java-D9A0B8?style=for-the-badge&logo=openjdk&logoColor=white">
 
 </div>
 
@@ -80,11 +80,11 @@ Também participo de projetos acadêmicos envolvendo **robótica, ESP32, sensore
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Rob%C3%B3tica-00C2FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hardware-7B61FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Sistemas%20Embarcados-00E5A0?style=for-the-badge">
+<img src="https://img.shields.io/badge/ESP32-C8B6E8?style=for-the-badge&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-AEC6CF?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Rob%C3%B3tica-E8AFC3?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hardware-B8B5E8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sistemas%20Embarcados-A9C9E8?style=for-the-badge">
 
 </div>
 
@@ -102,7 +102,7 @@ Também participo de projetos acadêmicos envolvendo **robótica, ESP32, sensore
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-A9C9E8?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
 
@@ -120,9 +120,9 @@ Também participo de projetos acadêmicos envolvendo **robótica, ESP32, sensore
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Git-E8AFC3?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-C8B6E8?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-A9C9E8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 </div>
 
@@ -156,9 +156,9 @@ Ao longo da graduação, venho desenvolvendo diferentes projetos para colocar em
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SophiaVieiraS&show_icons=true&theme=transparent&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&border_color=00C2FF&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SophiaVieiraS&show_icons=true&theme=transparent&bg_color=00000000&title_color=C8B6E8&text_color=E8E3F3&icon_color=E8AFC3&border_color=B8B5E8&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaVieiraS&layout=compact&langs_count=6&theme=transparent&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF&border_color=00C2FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaVieiraS&layout=compact&langs_count=6&theme=transparent&bg_color=00000000&title_color=C8B6E8&text_color=E8E3F3&border_color=A9C9E8"/>
 
 </div>
 
@@ -169,15 +169,15 @@ Ao longo da graduação, venho desenvolvendo diferentes projetos para colocar em
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sophia-vieira-/">
-<img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-B8B5E8?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/sophiavsantos/">
-<img src="https://img.shields.io/badge/Instagram-7B61FF?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E8AFC3?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="mailto:sophiavieirapessoal@gmail.com">
-<img src="https://img.shields.io/badge/Email-00E5A0?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-A9C9E8?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -186,7 +186,7 @@ Ao longo da graduação, venho desenvolvendo diferentes projetos para colocar em
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SophiaVieiraS&color=00C2FF&style=for-the-badge&label=VISITAS+AO+PERFIL">
+<img src="https://komarev.com/ghpvc/?username=SophiaVieiraS&color=C8B6E8&style=for-the-badge&label=VISITAS+AO+PERFIL">
 
 </div>
 
@@ -194,7 +194,8 @@ Ao longo da graduação, venho desenvolvendo diferentes projetos para colocar em
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B61FF&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8AFC3,50:C8B6E8,100:A9C9E8&height=100&section=footer">
 
 </div>
+
 
