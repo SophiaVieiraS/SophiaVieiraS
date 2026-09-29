@@ -1,148 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:0A1F33,100:00D9FF&height=220&section=header&text=SOPHIA%20VIEIRA&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=INFORMATION%20SYSTEMS%20%7C%20TECHNOLOGY%20%7C%20ROBOTICS&descAlignY=60&descSize=16&descColor=FFFFFF"/>
+# Sophia Vieira
+
+### Estudante de Sistemas de Informação | FIAP
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%40+FIAP;Desenvolvimento+%7C+Java;Hardware+%7C+Rob%C3%B3tica;Sistemas+Embarcados+%7C+ESP32" alt="Animação de texto">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FIAP-Sistemas%20de%20Informa%C3%A7%C3%A3o-00C2FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 </div>
+
+---
+
+## Sobre Mim
+
+Sou estudante de **Sistemas de Informação na FIAP**, com interesse em tecnologia, programação, hardware e robótica.
+
+Durante minha formação, venho desenvolvendo conhecimentos principalmente em **Java, desenvolvimento web, banco de dados, hardware e sistemas embarcados**, buscando sempre transformar o conteúdo aprendido em projetos práticos.
+
+Também participo de projetos acadêmicos envolvendo **robótica, ESP32, sensores e programação**, trabalhando tanto na parte de desenvolvimento quanto na montagem e integração dos componentes.
+
+---
+
+## Tecnologias e Conhecimentos
+
+### Desenvolvimento Web
 
 <div align="center">
 
-```text
-> initializing profile...
-> system: Information Systems
-> focus: Java | Hardware | Robotics
-> status: learning & building
-```
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark">
 
 </div>
 
----
-
-## ABOUT ME
-
-```java
-public class Sophia {
-
-    String course = "Information Systems";
-    String focus = "Technology";
-    String[] interests = {
-        "Java",
-        "Hardware",
-        "Robotics",
-        "Embedded Systems"
-    };
-
-    String currentGoal =
-        "Learning, building and turning ideas into projects.";
-}
-```
-
-I am an Information Systems student interested in programming, hardware and robotics.
-
-I enjoy learning through practical projects and applying what I learn during college to real systems and technological challenges.
-
-Currently, I am developing projects involving **Java, ESP32, robotics and embedded systems**.
-
----
-
-## TECH STACK
+<br>
 
 <div align="center">
 
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=java,html,css" />
-
-### TOOLS & DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-
-### HARDWARE & ROBOTICS
-
-`ESP32` `Sensors` `Embedded Systems` `Robotics` `Hardware`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 </div>
 
 ---
 
-## PROJECTS
+### Programação
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=java&theme=dark">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+</div>
+
+---
+
+### Hardware e Robótica
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Rob%C3%B3tica-00C2FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hardware-7B61FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sistemas%20Embarcados-00E5A0?style=for-the-badge">
+
+</div>
+
+---
+
+### Banco de Dados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+</div>
+
+---
+
+### Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+</div>
+
+---
+
+## Projetos
 
 ### RoboCup
 
-Academic robotics project developed throughout the year.
+Projeto desenvolvido durante a graduação em **Sistemas de Informação**, envolvendo o desenvolvimento de um robô ao longo do ano.
 
-**Focus**
+O projeto reúne conceitos de **programação, hardware, sensores, sistemas embarcados e resolução de problemas**, além do trabalho em equipe durante todas as etapas de desenvolvimento.
 
-* ESP32
-* Sensors
-* Programming
-* Hardware
-* Embedded Systems
-* Teamwork
+**Tecnologias e conceitos:**
 
-</td>
-
-<td width="50%">
-
-### Academic Projects
-
-Projects developed throughout my Information Systems degree.
-
-**Areas**
-
-* Programming
-* Databases
-* Hardware
-* Systems
-* Problem Solving
-
-</td>
-
-</tr>
-</table>
+`ESP32` `Sensores` `Hardware` `Robótica` `Programação` `Sistemas Embarcados`
 
 ---
 
-## GITHUB ANALYTICS
+### Projetos Acadêmicos
+
+Ao longo da graduação, venho desenvolvendo diferentes projetos para colocar em prática os conhecimentos adquiridos em **programação, desenvolvimento de sistemas, banco de dados, hardware e resolução de problemas**.
+
+**Principais tecnologias e conceitos:**
+
+`Java` `HTML` `CSS` `MySQL` `ESP32` `Robótica` `Hardware`
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SophiaVieiraS&show_icons=true&theme=transparent&bg_color=050B14&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=0A1F33&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SophiaVieiraS&show_icons=true&theme=transparent&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&border_color=00C2FF&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaVieiraS&layout=compact&langs_count=6&theme=transparent&bg_color=050B14&title_color=00D9FF&text_color=FFFFFF&border_color=0A1F33"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaVieiraS&layout=compact&langs_count=6&theme=transparent&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF&border_color=00C2FF"/>
 
 </div>
 
 ---
 
-## CONTRIBUTIONS
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SophiaVieiraS&theme=transparent&background=050B14&border=0A1F33&stroke=0A1F33&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
-## CONNECT
+## Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sophia-vieira-/">
-<img src="https://img.shields.io/badge/LINKEDIN-050B14?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/sophiavsantos/">
-<img src="https://img.shields.io/badge/INSTAGRAM-050B14?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/Instagram-7B61FF?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="mailto:sophiavieirapessoal@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050B14?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/Email-00E5A0?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -151,18 +186,15 @@ Projects developed throughout my Information Systems degree.
 
 <div align="center">
 
-```text
-────────────────────────────────────────────────────
-          LEARN  •  BUILD  •  CREATE
-────────────────────────────────────────────────────
-```
-
-<img src="https://komarev.com/ghpvc/?username=SophiaVieiraS&color=00D9FF&style=flat-square&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=SophiaVieiraS&color=00C2FF&style=for-the-badge&label=VISITAS+AO+PERFIL">
 
 </div>
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A1F33,100:050B14&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B61FF&height=100&section=footer">
 
 </div>
+
